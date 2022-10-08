@@ -15,7 +15,7 @@ conocer la vista de cliente.
 
 Como administrador el software te permite crear actividades como conciertos o presentaciones y eventos vinculados a dichas actividades con una fecha, hora y
 aforo concreto. Por otro lado puedes crear eventos conjuntos, esta funcionalidad te permitirá especificar una fecha hora y aforo concreto; dichas especificaciones crearán 
-eventos de forma semanal hasta finalizar el mes, por lo caul podrías crear un evento conjunto un lunes y el sistema mostraría eventos iguales durante todos los lunes
+eventos de forma semanal hasta finalizar el mes, por lo cual podrías crear un evento conjunto un lunes y el sistema mostraría eventos iguales durante todos los lunes
 del mes. Adicionalmente te ofrece la opción de publicar dichos eventos. Al estos ser publicados es posible para el cliente visualizarlos en el listado de 
 eventos ofertados.
 
