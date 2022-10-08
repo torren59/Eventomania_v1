@@ -5,7 +5,7 @@ Es necesario contar con la paquetería de software libre Xampp
 ¿Cómo inició el proyecto?
 
 Para probar el software:
-1. Incorpore la carpeta 'FinalPHP' dentro de la carpeta htdocs de Xampp 
+1. Importe el proyecto dentro de la carpeta htdocs de Xampp 
 2. Encienda el módulo de Apache y MYSQL en el gestor de Xampp
 2. Importe el script eventomania.sql dentro de una base de datos con el nombre de 'eventomania'; para ello haga uso del SGBD Mysql
 3. Diríjase a http://localhost/FinalPHP/vistas/login_formulario.php
