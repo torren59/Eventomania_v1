@@ -1,0 +1,58 @@
+body{
+    background-image:url("./IMG/regiswallpaper.jpg");
+    background-size: cover;
+    min-height: 100vh;
+    overflow: hidden;
+    color: black;
+}
+
+hr{
+    margin: 0px;
+}
+
+.add-user-flex{
+    position: relative;
+    background-color: azure;
+    background-color: rgba(253, 253, 255, 0.5);
+   top: 50vh;
+   left: 50vw;
+   transform: translate(-50%,-50%);
+    width: 80%;
+    height: 85vh;
+    margin: 0px;
+    padding: 0px;
+}
+
+.add-user-head{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background: whitesmoke;
+    opacity: none;
+}
+
+.add-user-form{
+    position: relative;
+    width: 90%;
+    margin:5%;
+    padding: 2%;
+    border-radius: 1%;
+    background: white;
+}
+
+.add-user-form-margined{
+    position: relative;
+    margin-left: 15%;
+}
+
+.add-user-form-btn{
+    position: relative;
+    margin-left: 45%;
+}
+
+.add-user-back{
+    text-decoration: none;
+    color:black;
+
+}

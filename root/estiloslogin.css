@@ -1,0 +1,26 @@
+body{
+    background-image: url("../root/IMG/solecito.jpg");
+    background-repeat: repeat;
+}
+
+.cuadrologin{
+    position:absolute;
+    top:35%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    background-color: white;
+    text-align: center;
+    border-radius: 6%;
+}
+
+.login-principal{
+    position: relative;
+    margin-top: 20%;
+    margin-left: 0px;
+    width: 300px;
+}
+
+
+.btn-envio{
+    margin-bottom: 6px;
+}

@@ -1,0 +1,159 @@
+body{
+    background-image:url("./IMG/fondo.jpg");
+    background-size: cover;
+}
+
+
+
+.admin-nav-main{
+    position: fixed;
+    width: 100%;
+    background: #0FFF95;
+    top:0px;
+    padding: 0px;
+}
+
+.admin-nav-message{
+    position: relative;
+    margin:0px;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+.admin-nav-ul{
+    list-style: none;
+}
+
+.admin-nav-btn{
+    position: relative;
+    height: 38px;
+    background-color: #06BA63;;
+    color:white;
+    border:none;
+}
+
+.admin-nav-btn:hover{
+    background-color: #103900;
+    border:1px solid white;
+    color:white;
+}
+
+.admin-nav-btn-logout{
+    position: relative;
+    border:none;
+}
+
+.admin-nav-btn-logout:hover{
+    border:1px solid black;
+}
+
+.admin-nav-item{
+    position: relative;
+
+    margin:0px;
+    padding: 0px;
+    float: left;
+    margin-top:1%;
+    margin-bottom: 1%;
+    margin-right: 2%;
+}
+
+.admin-nav-item-logout{
+    position: relative;
+    margin:0px;
+    padding: 0px;
+    float: right;
+    margin-top:1%;
+    margin-bottom: 1%;
+    margin-right: 5%;
+}
+
+.contenido-listado{
+    position:relative;
+    margin-top: 5%;
+    width: 100%;
+    padding-top:10px;
+   /* border:1px solid black;*/
+    overflow:hidden;
+}
+
+.listado-btn{
+    position: relative;
+    height: 38px;
+    background-color: black;
+    color:white;
+    border:none;
+}
+
+.listado-btn:hover{
+    background-color: white;
+    border:1px solid black;
+    color:black;
+}
+
+.gest-event-btn{
+    background-color: white;
+    height: 38px;
+    margin:0;
+    margin-left: 15px;
+    border:none;
+    float: left;
+}
+
+.gest-event-btn:hover{
+    background-color: white;
+    border:3px solid yellowgreen;
+}
+
+.add-event-item{
+    position: relative;
+    float: none;
+    margin-left: 2%;
+    /*border: 2px solid violet;*/
+    overflow: hidden;
+}
+
+.add-content-block{
+    float: left;
+    margin-left: 1%;
+    /*border: 2px solid green;*/
+    overflow: hidden;
+}
+
+.admin-pub-btn{
+    position: relative;
+    height: 38px;
+    background-color: #c44536;;
+    color:white;
+    border:none;
+}
+
+.admin-pub-btn:hover{
+    background-color: #772E25;
+    border:1px solid white;
+    color:white;
+}
+
+.list-card{
+    float:left;
+    margin:4px;
+    width: 24%;
+    height: 52vh;
+    border-radius: 10%;
+    text-align: center;
+    border:1px solid black;
+    background-color: rgba(253, 253, 255, 0.5);
+    position: relative;
+}
+
+.desc-panel{
+    position: relative;
+    float: none;
+    margin-left: 2%;
+    height: 40%;
+    /*border: 2px solid violet;*/
+    overflow: hidden;
+    overflow-y: scroll;
+    
+}
