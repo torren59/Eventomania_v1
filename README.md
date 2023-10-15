@@ -2,7 +2,7 @@
 Prerrequisitos
 Es necesario contar con la paquetería de software libre Xampp
 
-¿Cómo inició el proyecto?
+¿Cómo inicio el proyecto?
 
 Para probar el software:
 1. Importe el proyecto dentro de la carpeta htdocs de Xampp 
